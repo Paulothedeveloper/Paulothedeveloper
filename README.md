@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-paulothedeveloper@protonmail.com-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:paulothedeveloper@protonmail.com)
 [![Gumroad](https://img.shields.io/badge/Gumroad-Meus%20apps-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://pauloadriel98.gumroad.com)
 <!-- TROCAR o link abaixo pelo seu @ do Instagram quando definir -->
-[![Instagram](https://img.shields.io/badge/Instagram-@em%20breve-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-@paulo.videodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo.videodev)
 <!-- TROCAR o link abaixo pela URL do seu LinkedIn quando criar -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Adriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-adriel/)
 
@@ -93,7 +93,7 @@ On the coding side, my motto is simple: **I learn out of real need, not abstract
 *Construo as ferramentas que eu mesmo uso. / I build the tools I use myself.*
 
 [![Email](https://img.shields.io/badge/-paulothedeveloper@protonmail.com-8B5CF6?style=flat&logo=protonmail&logoColor=white)](mailto:paulothedeveloper@protonmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/-@paulo.videodev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/paulo.videodev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-adriel/)
 [![Gumroad](https://img.shields.io/badge/-Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=black)](https://pauloadriel98.gumroad.com)
 
