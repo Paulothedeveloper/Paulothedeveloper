@@ -10,7 +10,7 @@
 <!-- TROCAR o link abaixo pelo seu @ do Instagram quando definir -->
 [![Instagram](https://img.shields.io/badge/Instagram-@em%20breve-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 <!-- TROCAR o link abaixo pela URL do seu LinkedIn quando criar -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Adriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-adriel/)
 
 🌍 **[Português](#-português)** · [English](#-english)
 
@@ -94,7 +94,7 @@ On the coding side, my motto is simple: **I learn out of real need, not abstract
 
 [![Email](https://img.shields.io/badge/-paulothedeveloper@protonmail.com-8B5CF6?style=flat&logo=protonmail&logoColor=white)](mailto:paulothedeveloper@protonmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-adriel/)
 [![Gumroad](https://img.shields.io/badge/-Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=black)](https://pauloadriel98.gumroad.com)
 
 </div>
