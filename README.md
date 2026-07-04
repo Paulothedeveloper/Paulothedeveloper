@@ -1,6 +1,6 @@
 <h1 align="center">Paulo Adriel — Paulocodex</h1>
 <p align="center"><b>Desenvolvedor + produtor audiovisual.</b> Apps e sites completos, do código ao lançamento — no ar em 30 dias.</p>
-<p align="center"><a href="https://paulocodex.com"><b>🌐 paulocodex.com</b></a> &nbsp;·&nbsp; <a href="mailto:paulobatista19988@proton.me">✉️ contato</a></p>
+<p align="center"><a href="https://paulocodex.com"><b>🌐 paulocodex.com</b></a> &nbsp;·&nbsp; <a href="mailto:contato@paulocodex.com">✉️ contato</a></p>
 
 ---
 
