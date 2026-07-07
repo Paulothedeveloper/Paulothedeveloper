@@ -4,8 +4,6 @@
 
 ---
 
-Construo o produto **e** a apresentação dele: código (desktop, mobile, web) + identidade, motion e material de lançamento. Um estúdio só, ponta a ponta.
-
 ### 🚀 Produtos & projetos
 
 | Projeto | O que é | Status | Links |
@@ -17,12 +15,13 @@ Construo o produto **e** a apresentação dele: código (desktop, mobile, web) +
 | **Ellae** | App social pra mulheres | No ar | [apresentação](https://github.com/Paulothedeveloper/ellae-app) · [acessar](https://ellae.app) |
 | **BladeBrust** | Marketplace + comunidade de piões | No ar | [apresentação](https://github.com/Paulothedeveloper/bladebrust-app) · [acessar](https://baybladebrust-61393.web.app) |
 | **Torque** | Plataforma all-in-one pra oficina mecânica | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
-| **RÉGUA** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua.web.app) |
+| **RÉGUA** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **Velvet** | Esteira de looks pro seu vídeo | Em dev | [apresentação](https://github.com/Paulothedeveloper/velvet-color) |
 | **Mirage** | Publique em todas as redes de uma vez | Beta | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://mirage-social-app.web.app) |
 | **Recibo na Hora** | Recibo profissional em segundos | Em dev | [apresentação](https://github.com/Paulothedeveloper/recibo-na-hora-app) |
+| **Codex IG Tools** | Ferramentas de crescimento de Instagram | Grátis | [acessar](https://github.com/Paulothedeveloper/codex-ig-tools-showcase) |
 
-> Os repositórios são de **apresentação** — o código-fonte dos produtos é fechado. Nada de dado ou segredo exposto.
+> Repositórios de **apresentação** — código-fonte fechado. Nada de dado ou segredo exposto.
 
 ### 🛠️ Stack
 `Tauri` · `Rust` · `React/TS` · `Flutter` · `Svelte` · `Firebase` · `Cloudflare Workers` · `Stripe` · `DaVinci/Motion`
