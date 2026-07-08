@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://paulocodex.com"><img alt="site" src="https://img.shields.io/badge/paulocodex.com-00E5C9?style=for-the-badge&labelColor=0B0E17"></a>
   <a href="mailto:contato@paulocodex.com"><img alt="email" src="https://img.shields.io/badge/contato-FF4D3D?style=for-the-badge&labelColor=0B0E17"></a>
-  <a href="https://instagram.com/paulo.videodev"><img alt="instagram" src="https://img.shields.io/badge/@paulo.videodev-8134AF?style=for-the-badge&labelColor=0B0E17"></a>
+  <a href="https://instagram.com/paulodev.codex"><img alt="instagram" src="https://img.shields.io/badge/@paulodev.codex-8134AF?style=for-the-badge&labelColor=0B0E17"></a>
 </p>
 
 ---
