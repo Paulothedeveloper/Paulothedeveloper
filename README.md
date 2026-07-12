@@ -14,7 +14,7 @@
 | **Quartzo** | Segundo cérebro em Markdown, local-first | À venda | [apresentação](https://github.com/Paulothedeveloper/quartzo-app) · [comprar](https://paulocodex.com/comprar?product=quartzo) |
 | **Ellae** | App social pra mulheres | No ar | [apresentação](https://github.com/Paulothedeveloper/ellae-app) · [acessar](https://ellae.app) |
 | **BladeBrust** | Marketplace + comunidade de piões | No ar | [apresentação](https://github.com/Paulothedeveloper/bladebrust-app) · [acessar](https://baybladebrust-61393.web.app) |
-| **Torque** | Plataforma all-in-one pra oficina mecânica | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
+| **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **RÉGUA** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **Velvet** | Cor de cinema no DaVinci Resolve | Beta | [apresentação](https://github.com/Paulothedeveloper/velvet-color) |
 | **Mirage** | Publique em todas as redes de uma vez | Beta | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://mirage-social-app.web.app) |
