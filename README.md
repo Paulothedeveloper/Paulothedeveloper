@@ -19,7 +19,7 @@
 | **Velvet** | Esteira de looks pro seu vídeo | Em dev | [apresentação](https://github.com/Paulothedeveloper/velvet-color) |
 | **Mirage** | Publique em todas as redes de uma vez | Beta | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://mirage-social-app.web.app) |
 | **Recibo na Hora** | Recibo profissional em segundos | Em dev | [apresentação](https://github.com/Paulothedeveloper/recibo-na-hora-app) |
-| **Codex IG** | Suíte de crescimento de Instagram — console + app desktop | Grátis | [acessar](https://github.com/Paulothedeveloper/codex-ig-tools-showcase) |
+| **Codex IG** | Suíte de crescimento de Instagram — console + app desktop | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
 | **ASCEF** | Site institucional + painel pra associação | No ar | [apresentação](https://github.com/Paulothedeveloper/ascef-app) · [acessar](https://ascef-pvh.web.app) |
 
 > Repositórios de **apresentação** — código-fonte fechado. Nada de dado ou segredo exposto.
