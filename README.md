@@ -17,7 +17,7 @@
 | **BeyBox** | Marketplace + comunidade de piões | No ar | [apresentação](https://github.com/Paulothedeveloper/bladebrust-app) · [acessar](https://baybladebrust-61393.web.app) |
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **RÉGUA** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
-| **Velvet** | Cor de cinema no DaVinci Resolve | Beta | [apresentação](https://github.com/Paulothedeveloper/velvet-color) |
+| **Velvet** | A suíte que faltava no DaVinci Resolve | Beta | [apresentação](https://github.com/Paulothedeveloper/velvet-color) |
 | **Mirage** | Publique em todas as redes de uma vez | Beta | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://mirage-social-app.web.app) |
 | **Recibo na Hora** | Recibo profissional em segundos | Em dev | [apresentação](https://github.com/Paulothedeveloper/recibo-na-hora-app) |
 | **Codex IG** | App desktop de crescimento de Instagram — na sua sessão, local | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
