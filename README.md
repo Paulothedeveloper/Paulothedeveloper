@@ -19,7 +19,7 @@
 | **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **Bw Hair** | App de simulação de cor pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
 | **Velvet** | A suíte que faltava no DaVinci Resolve | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-color/releases) · [comprar](https://paulocodex.com/comprar?product=velvet-complete) |
-| **Mirage** | Publique em todas as redes de uma vez | Beta | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://mirage-social-app.web.app) |
+| **Mirage** | Publique em todas as redes de uma vez | À venda | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://play.google.com/store/apps/details?id=app.ellae.socialmirror) |
 | **Recibo na Hora** | Recibo profissional em segundos | Em dev | [apresentação](https://github.com/Paulothedeveloper/recibo-na-hora-app) |
 | **Codex Ig** | App desktop de crescimento de Instagram — na sua sessão, local | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
 | **Ascef** | Site institucional + painel pra associação | No ar | [apresentação](https://github.com/Paulothedeveloper/ascef-app) · [acessar](https://ascef-pvh.web.app) |
