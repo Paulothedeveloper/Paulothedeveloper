@@ -11,10 +11,10 @@
 | **Pauta** | Estúdio de conteúdo com IA pra criadores | Grátis | [apresentação](https://github.com/Paulothedeveloper/pauta-app) · [acessar](https://pauta.paulocodex.com) |
 | **Prisma** | Gerenciador de mídia pra quem edita | À venda | [apresentação](https://github.com/Paulothedeveloper/prisma-app) · [comprar](https://paulocodex.com/comprar?product=prisma) |
 | **Ludex** | Launcher retro multi-emulador | À venda | [apresentação](https://github.com/Paulothedeveloper/ludex) · [comprar](https://paulocodex.com/comprar?product=ludex) |
-| **Vorath RPG** | RPG de mesa solo narrado por IA | Beta | [apresentação](https://github.com/Paulothedeveloper/Vorath-showcase) · [acessar](https://github.com/Paulothedeveloper/vorath-releases/releases/latest) |
+| **Vorath** | RPG de mesa solo narrado por IA | Beta | [apresentação](https://github.com/Paulothedeveloper/Vorath-showcase) · [acessar](https://github.com/Paulothedeveloper/vorath-releases/releases/latest) |
 | **Quartzo** | Segundo cérebro em Markdown, local-first | À venda | [apresentação](https://github.com/Paulothedeveloper/quartzo-app) · [comprar](https://paulocodex.com/comprar?product=quartzo) |
 | **Ellae** | App social pra mulheres | No ar | [apresentação](https://github.com/Paulothedeveloper/ellae-app) · [acessar](https://ellae.app) |
-| **Beybox** | Marketplace + comunidade de piões | No ar | [apresentação](https://github.com/Paulothedeveloper/bladebrust-app) · [acessar](https://baybladebrust-61393.web.app) |
+| **Bladebrust** | Marketplace + comunidade de piões | No ar | [apresentação](https://github.com/Paulothedeveloper/bladebrust-app) · [acessar](https://baybladebrust-61393.web.app) |
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **Bw Hair** | App de simulação de cor pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
