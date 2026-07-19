@@ -9,20 +9,20 @@
 | Projeto | O que é | Status | Links |
 |---|---|---|---|
 | **Pauta** | Estúdio de conteúdo com IA pra criadores | Grátis | [apresentação](https://github.com/Paulothedeveloper/pauta-app) · [acessar](https://pauta.paulocodex.com) |
-| **PRISMA** | Gerenciador de mídia pra quem edita | À venda | [apresentação](https://github.com/Paulothedeveloper/prisma-app) · [comprar](https://paulocodex.com/comprar?product=prisma) |
+| **Prisma** | Gerenciador de mídia pra quem edita | À venda | [apresentação](https://github.com/Paulothedeveloper/prisma-app) · [comprar](https://paulocodex.com/comprar?product=prisma) |
 | **Ludex** | Launcher retro multi-emulador | À venda | [apresentação](https://github.com/Paulothedeveloper/ludex) · [comprar](https://paulocodex.com/comprar?product=ludex) |
 | **Vorath RPG** | RPG de mesa solo narrado por IA | Beta | [apresentação](https://github.com/Paulothedeveloper/Vorath-showcase) · [acessar](https://github.com/Paulothedeveloper/vorath-releases/releases/latest) |
 | **Quartzo** | Segundo cérebro em Markdown, local-first | À venda | [apresentação](https://github.com/Paulothedeveloper/quartzo-app) · [comprar](https://paulocodex.com/comprar?product=quartzo) |
 | **Ellae** | App social pra mulheres | No ar | [apresentação](https://github.com/Paulothedeveloper/ellae-app) · [acessar](https://ellae.app) |
-| **BeyBox** | Marketplace + comunidade de piões | No ar | [apresentação](https://github.com/Paulothedeveloper/bladebrust-app) · [acessar](https://baybladebrust-61393.web.app) |
+| **Beybox** | Marketplace + comunidade de piões | No ar | [apresentação](https://github.com/Paulothedeveloper/bladebrust-app) · [acessar](https://baybladebrust-61393.web.app) |
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
-| **RÉGUA** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
+| **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **BW Hair** | App de simulação de cor pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
 | **Velvet** | A suíte que faltava no DaVinci Resolve | Beta | [apresentação](https://github.com/Paulothedeveloper/velvet-color) |
 | **Mirage** | Publique em todas as redes de uma vez | Beta | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://mirage-social-app.web.app) |
 | **Recibo na Hora** | Recibo profissional em segundos | Em dev | [apresentação](https://github.com/Paulothedeveloper/recibo-na-hora-app) |
 | **Codex IG** | App desktop de crescimento de Instagram — na sua sessão, local | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
-| **ASCEF** | Site institucional + painel pra associação | No ar | [apresentação](https://github.com/Paulothedeveloper/ascef-app) · [acessar](https://ascef-pvh.web.app) |
+| **Ascef** | Site institucional + painel pra associação | No ar | [apresentação](https://github.com/Paulothedeveloper/ascef-app) · [acessar](https://ascef-pvh.web.app) |
 
 > Repositórios de **apresentação** — código-fonte fechado. Nada de dado ou segredo exposto.
 
