@@ -8,7 +8,7 @@
 
 | Projeto | O que é | Status | Links |
 |---|---|---|---|
-| **Vizo** | Aluguel de carro entre pessoas (P2P) | Em dev | [apresentação](https://github.com/Paulothedeveloper/Vizo-app) · [acessar](https://github.com/Paulothedeveloper/Vizo-app) |
+| **RODAI** | Aluguel de carro entre pessoas (P2P) | Em dev | [apresentação](https://github.com/Paulothedeveloper/RODAI-app) · [acessar](https://github.com/Paulothedeveloper/RODAI-app) |
 | **Pauta** | Estúdio de conteúdo com IA pra criadores | Grátis | [apresentação](https://github.com/Paulothedeveloper/pauta-app) · [acessar](https://pauta.paulocodex.com) |
 | **Prisma** | Gerenciador de mídia pra quem edita | À venda | [apresentação](https://github.com/Paulothedeveloper/prisma-app) · [comprar](https://paulocodex.com/comprar?product=prisma) |
 | **Ludex** | Launcher retro multi-emulador | À venda | [apresentação](https://github.com/Paulothedeveloper/ludex) · [comprar](https://paulocodex.com/comprar?product=ludex) |
