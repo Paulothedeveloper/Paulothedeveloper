@@ -19,7 +19,7 @@
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **Bw Hair** | App de simulação de cor pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
-| **Velvet** | A suíte que faltava no DaVinci Resolve | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-color/releases) · [acessar](https://paulocodex.com/velvet) |
+| **VELVET Color** | Cor de cinema no DaVinci, com IA | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-color) · [comprar](https://paulocodex.com/comprar?product=velvet) |
 | **VELVET AutoCut** | Corta silêncio e gaguejo no DaVinci, em segundos | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-autocut-app) · [comprar](https://paulocodex.com/comprar?product=velvet-autocut) |
 | **VELVET Transcrição** | Edite pelo texto, com IA na SUA GPU | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-transcricao-app) · [comprar](https://paulocodex.com/comprar?product=velvet-transcricao) |
 | **VELVET Legenda** | Legenda viral com karaokê e 34 letterings | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-legenda-app) · [comprar](https://paulocodex.com/comprar?product=velvet-legenda) |
