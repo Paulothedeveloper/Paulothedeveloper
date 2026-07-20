@@ -15,7 +15,7 @@
 | **Vorath** | RPG de mesa solo narrado por IA | Beta | [apresentação](https://github.com/Paulothedeveloper/Vorath-showcase) · [acessar](https://github.com/Paulothedeveloper/vorath-releases/releases/latest) |
 | **Quartzo** | Segundo cérebro em Markdown, local-first | À venda | [apresentação](https://github.com/Paulothedeveloper/quartzo-app) · [comprar](https://paulocodex.com/comprar?product=quartzo) |
 | **Ellae** | App social pra mulheres | No ar | [apresentação](https://github.com/Paulothedeveloper/ellae-app) · [acessar](https://ellae.app) |
-| **BeyBox** | Marketplace + comunidade de beyblades | No ar | [apresentação](https://github.com/Paulothedeveloper/BeyBox-app) · [acessar](https://baybladebrust-61393.web.app) |
+| **BeyBox** | Marketplace + comunidade de beyblades | No ar | [apresentação](https://github.com/Paulothedeveloper/BeyBox-app) · [acessar](https://beybox.com.br) |
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **Bw Hair** | App de simulação de cor pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
