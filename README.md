@@ -4,6 +4,8 @@
 
 ---
 
+Construo o produto **e** a apresentação dele: código (desktop, mobile, web) + identidade, motion e material de lançamento. Um estúdio só, ponta a ponta.
+
 ### 🚀 Produtos & projetos
 
 | Projeto | O que é | Status | Links |
@@ -28,7 +30,7 @@
 | **Codex Ig** | App desktop de crescimento de Instagram: na sua sessão, local | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
 | **Ascef** | Site institucional + painel pra associação | No ar | [apresentação](https://github.com/Paulothedeveloper/ascef-app) · [acessar](https://ascef-pvh.web.app) |
 
-> Repositórios de **apresentação** — código-fonte fechado. Nada de dado ou segredo exposto.
+> Os repositórios são de **apresentação** — o código-fonte dos produtos é fechado. Nada de dado ou segredo exposto.
 
 ### 🛠️ Stack
 `Tauri` · `Rust` · `React/TS` · `Flutter` · `Svelte` · `Firebase` · `Cloudflare Workers` · `Stripe` · `DaVinci/Motion`
