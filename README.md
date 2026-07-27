@@ -18,7 +18,7 @@
 | **BeyBox** | Marketplace + comunidade de beyblades | No ar | [apresentação](https://github.com/Paulothedeveloper/BeyBox-app) · [acessar](https://beybox.com.br) |
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
-| **Bw Hair** | App de simulação de cor pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
+| **BW Hair** | Consultoria técnica de cabelo pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
 | **VELVET Color** | Cor de cinema no DaVinci, com IA | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-color) · [comprar](https://paulocodex.com/comprar?product=velvet) |
 | **VELVET AutoCut** | Corta silêncio e gaguejo no DaVinci, em segundos | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-autocut-app) · [comprar](https://paulocodex.com/comprar?product=velvet-autocut) |
 | **VELVET Transcrição** | Edite pelo texto, com IA na SUA GPU | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-transcricao-app) · [comprar](https://paulocodex.com/comprar?product=velvet-transcricao) |
