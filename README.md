@@ -30,22 +30,7 @@
 
 > Repositórios de **apresentação** — código-fonte fechado. Nada de dado ou segredo exposto.
 
-### 🛠️ Ferramentas que uso pra construir (open-source > apps pagas)
-
-As de verdade — as que rodam nos meus produtos agora. Grátis, e eu monto em cima:
-
-| Ferramenta | Pra quê | No lugar de |
-|---|---|---|
-| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Cortar, converter e comprimir vídeo (motor do VELVET) | Conversores/editores pagos |
-| [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Transcrição e legenda rodando na minha GPU | Transcrição paga |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Baixar vídeo/reel de referência antes de analisar | Downloaders pagos |
-| [rembg](https://github.com/danielgatis/rembg) | Tirar o fundo de qualquer foto em segundos | remove.bg Pro |
-| [Remotion](https://github.com/remotion-dev/remotion) | Vídeo e motion graphics por código | After Effects |
-| [Playwright](https://github.com/microsoft/playwright) | Testar cada tela num navegador real antes de publicar | QA manual |
-| [Excalidraw](https://github.com/excalidraw/excalidraw) | Desenhar fluxos e diagramas antes de construir | Miro / Lucidchart |
-| [Tauri](https://github.com/tauri-apps/tauri) + Rust | Apps desktop leves (Prisma, Quartzo, Ludex) | Electron pesado |
-| [Supabase](https://github.com/supabase/supabase) | Banco + login + storage num lugar só | Firebase pago |
-
-**E o que fecha o produto:** `React/TS` · `Flutter` · `Svelte` · `Firebase` · `Cloudflare Workers (KV/R2)` · `Stripe` · `Asaas (PIX)` · `Resend` · `jsPDF` · `Grok (xAI)` · `DaVinci/Fusion`
+### 🛠️ Stack
+`Tauri` · `Rust` · `React/TS` · `Flutter` · `Svelte` · `Firebase` · `Cloudflare Workers` · `Stripe` · `DaVinci/Motion`
 
 <p align="center"><i>Tem uma ideia? Em 30 dias ela tá no ar.</i> · <a href="https://paulocodex.com">paulocodex.com</a></p>
