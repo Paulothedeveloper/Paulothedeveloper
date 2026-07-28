@@ -19,10 +19,8 @@
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **BW Hair** | Consultoria técnica de cabelo pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
-| **BLADE Color** | Cor de cinema no DaVinci, com IA | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-color) · [comprar](https://paulocodex.com/comprar?product=velvet) |
-| **BLADE AutoCut** | Corta silêncio e gaguejo no DaVinci, em segundos | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-autocut-app) · [comprar](https://paulocodex.com/comprar?product=velvet-autocut) |
-| **BLADE Transcrição** | Edite pelo texto, com IA na SUA GPU | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-transcricao-app) · [comprar](https://paulocodex.com/comprar?product=velvet-transcricao) |
-| **BLADE Legenda** | Legenda viral com karaokê e 34 letterings | À venda | [apresentação](https://github.com/Paulothedeveloper/velvet-legenda-app) · [comprar](https://paulocodex.com/comprar?product=velvet-legenda) |
+| **BLADE Color** | Cor de cinema no DaVinci, com IA | À venda | [apresentação](https://github.com/Paulothedeveloper/blade-color) · [comprar](https://paulocodex.com/comprar?product=velvet) |
+| **BLADE Subs** | Corta, transcreve e legenda — 3 abas num plugin só | À venda | [apresentação](https://github.com/Paulothedeveloper/blade-legenda-app) · [comprar](https://paulocodex.com/comprar?product=velvet-suite) |
 | **Mirage** | Publique em todas as redes de uma vez | À venda | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://play.google.com/store/apps/details?id=app.ellae.socialmirror) |
 | **Recibo na Hora** | Recibo profissional em segundos | Em dev | [apresentação](https://github.com/Paulothedeveloper/recibo-na-hora-app) |
 | **Codex Ig** | App desktop de crescimento de Instagram: na sua sessão, local | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
