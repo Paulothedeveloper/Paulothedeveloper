@@ -18,7 +18,7 @@
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **Régua** | SaaS de barbearia com simulação | Beta | [apresentação](https://github.com/Paulothedeveloper/naregua-app) · [acessar](https://regua-barbearia.web.app) |
 | **BW Hair** | Consultoria técnica de cabelo pro salão (case de cliente) | Entregue | [apresentação](https://github.com/Paulothedeveloper/bwhair-app) |
-| **BLADE** | Cor de cinema + corte, transcrição e legenda no DaVinci | À venda | [apresentação](https://github.com/Paulothedeveloper/blade-color) · [comprar](https://paulocodex.com/comprar?product=blade) |
+| **BLADE** | Cor de cinema + corte, transcrição e legenda no DaVinci | À venda | [apresentação](https://github.com/Paulothedeveloper/blade) · [comprar](https://paulocodex.com/comprar?product=blade) |
 | **Mirage** | Publique em todas as redes de uma vez | À venda | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://play.google.com/store/apps/details?id=app.ellae.socialmirror) |
 | **Recibo na Hora** | Recibo profissional em segundos | Em dev | [apresentação](https://github.com/Paulothedeveloper/recibo-na-hora-app) |
 | **Codex Ig** | App desktop de crescimento de Instagram: na sua sessão, local | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
