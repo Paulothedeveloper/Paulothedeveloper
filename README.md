@@ -19,7 +19,6 @@
 | **BLADE** | Cor de cinema + corte, transcrição e legenda no DaVinci | À venda | [apresentação](https://github.com/Paulothedeveloper/blade) · [comprar](https://paulocodex.com/comprar?product=blade) |
 | **Mirage** | Publique em todas as redes de uma vez | À venda | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://play.google.com/store/apps/details?id=app.ellae.socialmirror) |
 | **Codex Ig** | App desktop de crescimento de Instagram: na sua sessão, local | Grátis | [apresentação](https://github.com/Paulothedeveloper/codex-ig-desktop) · [acessar](https://github.com/Paulothedeveloper/codex-ig-desktop/releases/latest) |
-| **Ascef** | Site institucional + painel pra associação | No ar | [apresentação](https://github.com/Paulothedeveloper/ascef-app) · [acessar](https://ascef-pvh.web.app) |
 
 > Repositórios de **apresentação** — código-fonte fechado. Nada de dado ou segredo exposto.
 
