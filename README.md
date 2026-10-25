@@ -8,7 +8,6 @@
 
 | Projeto | O que é | Status | Links |
 |---|---|---|---|
-| **Pauta** | Estúdio de conteúdo com IA pra criadores | Grátis | [apresentação](https://github.com/Paulothedeveloper/pauta-app) · [acessar](https://pauta.paulocodex.com) |
 | **Prisma** | Gerenciador de mídia pra quem edita | À venda | [apresentação](https://github.com/Paulothedeveloper/prisma-app) · [comprar](https://paulocodex.com/comprar?product=prisma) |
 | **Ludex** | Launcher retro multi-emulador | À venda | [apresentação](https://github.com/Paulothedeveloper/ludex) · [comprar](https://paulocodex.com/comprar?product=ludex) |
 | **Vorath** | RPG de mesa solo narrado por IA | À venda | [apresentação](https://github.com/Paulothedeveloper/Vorath-showcase) · [acessar](https://play.google.com/store/apps/details?id=com.paulo.vorath_rpg) |
