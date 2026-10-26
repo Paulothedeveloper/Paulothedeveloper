@@ -13,7 +13,7 @@
 | **Vorath** | RPG de mesa solo narrado por IA | À venda | [apresentação](https://github.com/Paulothedeveloper/Vorath-showcase) · [acessar](https://play.google.com/store/apps/details?id=com.paulo.vorath_rpg) |
 | **Quartzo** | Segundo cérebro em Markdown, local-first | À venda | [apresentação](https://github.com/Paulothedeveloper/quartzo-app) · [comprar](https://paulocodex.com/comprar?product=quartzo) |
 | **Ellae** | App social pra mulheres | No ar | [apresentação](https://github.com/Paulothedeveloper/ellae-app) · [acessar](https://ellae.app) |
-| **BeyBox** | Marketplace + comunidade de beyblades | No ar | [apresentação](https://github.com/Paulothedeveloper/BeyBox-app) · [acessar](https://beybox.com.br) |
+| **BeyBox** | Marketplace + comunidade de beyblades | No ar | [acessar](https://beybox.com.br) |
 | **Torque** | Plataforma da oficina mecânica brasileira | No ar | [apresentação](https://github.com/Paulothedeveloper/torque-app) · [acessar](https://torqueoficina.com.br) |
 | **BLADE** | Cor de cinema + corte, transcrição e legenda no DaVinci | À venda | [apresentação](https://github.com/Paulothedeveloper/blade) · [comprar](https://paulocodex.com/comprar?product=blade) |
 | **Mirage** | Publique em todas as redes de uma vez | À venda | [apresentação](https://github.com/Paulothedeveloper/mirage-app) · [acessar](https://play.google.com/store/apps/details?id=app.ellae.socialmirror) |
